@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\ASUS\\Desktop\\ArduBlock 2.0\\app\\compilation\\arduino\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\ASUS\\Desktop\\ArduBlock 2.0\\app\\compilation\\arduino\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\ASUS\\Desktop\\ArduBlock 2.0\\app\\compilation\\arduino\\build\\sketch\\sketch.ino.cpp",
+    "Include": "TM1637.h",
+    "Includepath": "C:\\Users\\ASUS\\Desktop\\ArduBlock 2.0\\app\\compilation\\arduino\\libraries\\TM1637"
+  },
+  {
+    "Sourcefile": "C:\\Users\\ASUS\\Desktop\\ArduBlock 2.0\\app\\compilation\\arduino\\build\\sketch\\sketch.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\ASUS\\Desktop\\ArduBlock 2.0\\app\\compilation\\arduino\\libraries\\TM1637\\TM1637.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
